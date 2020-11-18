@@ -16,6 +16,7 @@ type Language
     | DeXInformal
     | Pl
     | Id
+    | Fr-Ca
 
 
 {-| It makes sense to apply the language and pass around the function, so we give that a nice name.
